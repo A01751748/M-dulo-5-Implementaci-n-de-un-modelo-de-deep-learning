@@ -1,0 +1,6 @@
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+M5/
+modelos/v1.keras
+modelos/v2.keras
